@@ -1,0 +1,17 @@
+{
+  "frames": {
+    "frame_0": { "frame": { "x": 0, "y": 0, "w": 18, "h": 33 } },
+    "frame_1": { "frame": { "x": 0, "y": 34, "w": 18, "h": 32 } },
+    "frame_2": { "frame": { "x": 22, "y": 0, "w": 18, "h": 33 } },
+    "frame_3": { "frame": { "x": 22, "y": 34, "w": 18, "h": 32 } },
+    "frame_4": { "frame": { "x": 44, "y": 0, "w": 18, "h": 33 } },
+    "frame_5": { "frame": { "x": 44, "y": 34, "w": 18, "h": 32 } },
+    "frame_6": { "frame": { "x": 70, "y": 0, "w": 18, "h": 32 } },
+    "frame_7": { "frame": { "x": 70, "y": 34, "w": 18, "h": 32 } }
+  },
+  "meta": {
+    "image": "sinterklaas_spritesheet_pixelated.png",
+    "size": { "w": 88, "h": 56 },
+    "scale": "1"
+  }
+}
